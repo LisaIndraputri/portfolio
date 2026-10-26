@@ -30,7 +30,7 @@ BLOCKS = [
     ("li", "Built the front end for DANA Deals & Promotions and B2B web products."),
     ("li", "Delivered the Deals 2.0 redesign: voucher search, category pills, visual filters, recommendation sorting, and skeleton loading."),
     ("li", "Built Buy as Gift end to end, from custom themes and messages to birthday notifications and back-office gifting tools."),
-    ("li", "Shipped growth integrations: TikTok Live campaigns, a universal deeplink for search ads, audience-targeted click-to-claim deals, and Google Ads attribution."),
+    ("li", "Shipped growth integrations: a universal deeplink for search ads, audience-targeted click-to-claim deals, and Google Ads attribution."),
     ("li", "Made seasonal campaign assets configurable, so Ramadan, Chinese New Year, and 11.11 no longer needed a manual swap."),
     ("li", "Built B2B features: role-based menus, enterprise-wallet cash-out approval, and a QoS dashboard."),
     ("li", "Authored 25+ system analysis documents."),

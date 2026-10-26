@@ -34,7 +34,7 @@ export const experience = {
         'Front end for DANA Deals & Promotions and B2B, then promoted to Senior SDE',
         'Deals 2.0: voucher search, category pills, visual filters, recommendation sorting, and skeleton loading',
         'Buy as Gift end to end: themes, messages, birthday notifications, and back-office tools',
-        'Growth: TikTok Live, a universal deeplink, targeted click-to-claim, and Google Ads attribution',
+        'Growth: a universal deeplink, targeted click-to-claim, and Google Ads attribution',
         'Seasonal campaign assets made configurable, so they no longer had to be swapped by hand',
         'B2B: role-based menus, enterprise-wallet cash-out approval, and a QoS dashboard',
         '25+ system analysis documents',
